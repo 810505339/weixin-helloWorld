@@ -1,0 +1,4 @@
+<!--pages/profile/profile.wxml-->
+<text>个人中心</text>
+<open-data type="groupName"></open-data>
+<open-data type="userAvatarUrl"></open-data>

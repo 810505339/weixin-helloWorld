@@ -1,0 +1,5 @@
+"use strict";
+Page({
+    data: {}
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHJvZmlsZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbInByb2ZpbGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBLElBQUksQ0FBQztJQUNELElBQUksRUFBRSxFQUFFO0NBQ1gsQ0FBQyxDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiLy9wcm9maWxlXHJcblBhZ2Uoe1xyXG4gICAgZGF0YToge31cclxufSkiXX0=
